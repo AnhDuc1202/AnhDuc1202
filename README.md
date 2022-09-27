@@ -36,6 +36,10 @@
 </span>
 &nbsp;
 <span>
+  <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=#000000" alt="next-js logo" title="Next js" height="25" />
+</span>
+&nbsp;
+<span>
   <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
 <span>
 &nbsp;
@@ -81,6 +85,58 @@
 &nbsp;
 <span>
   <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=#4479A1" alt="MySQL logo" title="MySQL" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=#4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=Microsoft-SQL-Server&logoColor=#CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/Redis-282C34?logo=Redis&logoColor=#DC382D" alt="Redis logo" title="Redis" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=#3776AB" alt="Python logo" title="Python" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/Spring Boot-282C34?logo=Spring-Boot&logoColor=#6DB33F" alt="Spring Boot logo" title="Spring Boot" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/Scala-282C34?logo=Scala&logoColor=#DC322F" alt="Scala logo" title="Scala" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/.NET-282C34?logo=.NET&logoColor=#512BD4" alt="DOTNET logo" title="DOTNET" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=#2496ED" alt="Docker logo" title="Docker" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/jQuery-282C34?logo=jQuery&logoColor=#0769AD" alt="jQuery logo" title="DOTNET" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=#777BB4" alt="PHP logo" title="PHP" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=#FF2D20" alt="Laravel logo" title="Laravel" height="25" />
 </span>
 &nbsp;
 
