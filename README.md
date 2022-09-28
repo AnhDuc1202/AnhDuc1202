@@ -104,7 +104,7 @@
 </span>
 &nbsp;
 <span>
-  <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
+  <img src="https://img.shields.io/badge/C/C++-282C34?logo=C%2B%2B&logoColor=00599C" alt="C/C++ logo" title="C/C++" height="25" />
 </span>
 &nbsp;
 <span>
