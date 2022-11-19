@@ -20,6 +20,10 @@
   </a>
 </p>
 
+<h2 align="center"> Spotify Playing 🎧</h2>
+
+[<img src="https://spotify-readme-anhduc1202.vercel.app/api/spotify-playing" alt="AnhDuc1202 Spotify Playing" width="350"/>](https://open.spotify.com/user/31u5jyihlygfe6gxmif6ijfvmaga)
+
 <h2 align="center"> Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
