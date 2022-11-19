@@ -21,8 +21,11 @@
 </p>
 
 <h2 align="center"> Spotify Playing 🎧</h2>
-
-[<p align="center"><img src="https://novatorem-psi-ashy.vercel.app/api/spotify/?background_color=252a3a&border_color=ffffff" alt="AnhDuc1202 Spotify Playing" width="450"/></p>](https://open.spotify.com/user/31u5jyihlygfe6gxmif6ijfvmaga)
+<p align="center">
+  <a href="https://open.spotify.com/user/31u5jyihlygfe6gxmif6ijfvmaga">
+    <img src="https://novatorem-psi-ashy.vercel.app/api/spotify/?background_color=252a3a&border_color=ffffff" alt="AnhDuc1202 Spotify Playing" width="450"/>
+  </a>
+</p>
 
 <h2 align="center"> Technologies and Tools 🛠</h2>
 <br>
@@ -172,8 +175,3 @@
     </p>
   </tr>
 </table>
-
-
-
-
-
